@@ -1,7 +1,7 @@
 # OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE
 
 ## AIM:
-Write C program to illustrate IPC using pipes mechanisms.
+To implement interprocess communication using pipe command.
 
 ## ALGORITHM:
 1. Create a child process using fork()
